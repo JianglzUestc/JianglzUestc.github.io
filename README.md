@@ -1,7 +1,3 @@
-<center>
-	<font size=5>JIANG Liangze</font>
-</center>
-
 <center>E-mail:   jianglz98@hotmail.com</center>
 
 <center>Mobile Phone: (+86)155-2072-9676</center>
