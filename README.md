@@ -32,7 +32,7 @@ PROFESSIONAL EXPERIENCE
 
 __Music creation system based on video motion feature and deep learning__	    2018.11-2019.05	
 
-_Lab project in Intelligent visual information processing group, SICE_
+_Lab project in Intelligent visual information processing group, supervised by Hongliang Li_
 	
 - Obtained motion feature by frame difference method and encoded music to matrices expression 	
 - Applied a condition DCGAN to music matrices with the motion feature served as the condition of the network, finally created music controlled by moving object in different instruments	
