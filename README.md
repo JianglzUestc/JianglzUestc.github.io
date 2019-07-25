@@ -69,7 +69,17 @@ __Other relevant experiences__
 
  - Course design: Speech recognition system based on hidden Markov model	2018.03-2018.06	
  - Course design: Speech synthesis based on formant and pitch period		    2018.03-2018.06
-	
+
+COURSES
+-----
+********
+ - Microcomputer System Theory and Embedded System Design
+ - Communication Theory
+ - Information theory and coding
+ - Signal and Systems & Digital Signal Processing
+ - Digital Logic Circuit and System
+ - Communication Radio Frequency Circuits
+
 ACTIVITIES
 -----
 ********
