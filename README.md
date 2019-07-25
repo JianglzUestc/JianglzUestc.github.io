@@ -75,7 +75,7 @@ COURSES
 ********
  - Microcomputer System Theory and Embedded System Design
  - Communication Theory
- - Information theory and coding
+ - Information Theory and Coding
  - Signal and Systems & Digital Signal Processing
  - Digital Logic Circuit and System
  - Communication Radio Frequency Circuits
