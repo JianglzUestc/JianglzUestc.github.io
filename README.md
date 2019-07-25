@@ -1,7 +1,5 @@
 <center>E-mail:   jianglz98@hotmail.com</center>
 
-<center>Mobile Phone: (+86)155-2072-9676</center>
-
 EDUCATION BACKGROUND
 -----
 ********
