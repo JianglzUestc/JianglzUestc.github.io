@@ -19,10 +19,10 @@ HONORS & SCHOLARSHIPS
 ********
 
 - National Scholarship (__top 0.2%__) in 2016-2017
-- Shi-qiang Scholarship (**12students/all juniors**) in 2017-2018	
+- Sekorm Enterprise Scholarship (**12students/all juniors**) in 2017-2018	
 - Scholarship for Outstanding Students, University Scholarship (__top10%, three times__)
 - 2019 Mathematical Contest in Modeling: Meritorious Winner (__top 6%__)
--  National English Competition for College Students: Provincial second prize (__top 3%__)
+- National English Competition for College Students: Provincial second prize (__top 3%__)
 
 PROFESSIONAL EXPERIENCE
 -----
