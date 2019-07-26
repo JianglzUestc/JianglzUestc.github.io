@@ -77,6 +77,7 @@ COURSES
  - Signal and Systems & Digital Signal Processing
  - Digital Logic Circuit and System
  - Communication Radio Frequency Circuits
+ - Mobile Communication System
 
 ACTIVITIES
 -----
