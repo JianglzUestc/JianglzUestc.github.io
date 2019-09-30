@@ -8,9 +8,10 @@ __University of Electronic Science and Technology of China__ 	Chengdu, China	201
 
 _Major in Communication Engineering, School of Information and Communication Engineering_
 
-- Professional ranking of the freshman year: __3/388__ (__top 0.7%__), GPA: __3.94/4__
-- Professional ranking of the most recent semester: __3/249__ (__top 1.2%__), GPA: __4.0/4__, __94.52/100__
-- Professional ranking until now: __7/249__ (__2.8%__), Average weighted score: __90.53/100__, GPA: __3.97/4__
+- Comprehensive ranking of the freshman year: __3/388__ (__top 0.7%__), major GPA: __3.94/4__
+- Comprehensive ranking of the sophomore year: __7/231__ , major GPA: __3.94/4__, __91.21/100__
+- Comprehensive ranking of the junior year: __2/231__ (__top 0.8%__), major GPA: __4.0/4__, __92.15/100__
+- Overall professional ranking: __7/249__ (__top 2.8%__), Average weighted score: __90.40/100__, GPA: __3.97/4__
 
 Language: TOEFL: __102__ points, GRE: __V154+Q170__ points, CET-4: __590__ points, CET-6: __570__ points
 
@@ -19,6 +20,7 @@ HONORS & SCHOLARSHIPS
 ********
 
 - National Scholarship (__top 0.2%__) in 2016-2017
+- National Scholarship (__top 0.2%__) in 2018-2019
 - Sekorm Enterprise Scholarship (**12students/all juniors**) in 2017-2018	
 - Scholarship for Outstanding Students, University Scholarship (__top10%, three times__)
 - 2019 Mathematical Contest in Modeling: Meritorious Winner (__top 6%__)
