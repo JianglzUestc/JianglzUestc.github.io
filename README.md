@@ -13,7 +13,7 @@ _Major in Communication Engineering, School of Information and Communication Eng
 - Comprehensive ranking of the junior year: __2/231__ (__top 0.8%__), major GPA: __4.0/4__, __92.15/100__
 - Overall professional ranking: __7/249__ (__top 2.8%__), Average weighted score: __90.40/100__, GPA: __3.97/4__
 
-Language: TOEFL: __102__ points, GRE: __V154+Q170__ points, CET-4: __590__ points, CET-6: __570__ points
+Language: TOEFL: __106__ points, GRE: __V154+Q170__ points, CET-4: __590__ points, CET-6: __570__ points
 
 HONORS & SCHOLARSHIPS
 -----
